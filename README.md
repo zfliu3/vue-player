@@ -18,7 +18,7 @@ npm install vue-player --save
 
 <script>
 
-import VuePlayer from 'vue-player';
+import VuePlayer from 'fly-vue-player';
 
 export default {
 components: {  VuePlayer },
