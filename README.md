@@ -1,6 +1,10 @@
 # vue-player
 audio player components based vue.js、iview2.x
 # usage
+
+## 1、install
+npm install vue-player --save
+## 2、example based vue.js iview2.x
 ``` javascript
 <template>
 <div>
@@ -14,7 +18,7 @@ audio player components based vue.js、iview2.x
 
 <script>
 
-import {VuePlayer} from 'zyzl-components';
+import VuePlayer from 'vue-player';
 
 export default {
 components: {  VuePlayer },
