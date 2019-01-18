@@ -3,7 +3,7 @@ audio player components based vue.js、iview2.x
 # usage
 
 ## 1、install
-npm install vue-player --save
+npm install fly-vue-player --save
 ## 2、example based vue.js iview2.x
 ``` javascript
 <template>
